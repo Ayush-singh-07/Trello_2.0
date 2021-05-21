@@ -1,0 +1,43 @@
+
+h1{
+font-family: 'Pattaya', sans-serif;
+color: white;
+}
+
+.addFeild{
+	margin-left:  25px;
+	font-family: sans-serif;
+
+}
+
+.add-btn{
+margin-left: 0px;
+margin-bottom: 4px;
+vertical-align: middle;
+color: white;
+font-size: 50px;
+}
+
+.list{
+	color: #fff;
+	width: 250px;
+	background-color: #19a974;
+	height: 50px;
+	margin:  20px auto;
+	border-radius: 5px;
+}
+
+.list-item{
+	padding: 10px;
+	position: relative;
+}
+.done-btn {
+	color: white;
+	 font-size: 25px;
+	float: right;
+	cursor: pointer;
+}
+
+.stretch{
+		margin-bottom: 50%;
+}
